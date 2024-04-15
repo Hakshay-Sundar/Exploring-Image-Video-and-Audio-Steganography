@@ -20,4 +20,12 @@ it has never been explored in digital steganography. I came up with a custom enc
 it increased the security as it added a layer of security for the hidden messages.
 
 **Adding some screenshots of the outputs I have had**
-![Diffusion Model Example](/cy5010/screenshots/1.png?raw=true "Diffusion Model Example")
+![Diffusion Model Example](screenshots/1.png?raw=true "Diffusion Model Example")
+
+![Image RGB Channel Comparison Example](screenshots/2.png?raw=true "Image RGB Channel Comparison Example")
+
+![Audio Steganography Example](screenshots/3.png?raw=true "Audio Steganography Example")
+
+![Audio Waveform analysis Example](screenshots/4.png?raw=true "Audio Waveform analysis Example")
+
+![Video Steganography Example](screenshots/5.png?raw=true "Video Steganography Example")
